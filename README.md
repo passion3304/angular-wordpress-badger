@@ -15,8 +15,6 @@ nvm install 4.2.2
 
 # Main features
 
-# Development
-
 
 # Changelog
 = 1.0 =
