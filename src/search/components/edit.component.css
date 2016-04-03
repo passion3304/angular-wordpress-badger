@@ -1,0 +1,8 @@
+:host {
+    display: block;
+    padding: 0 1em;
+}
+
+button {
+    margin-top: 0.5em;
+}
