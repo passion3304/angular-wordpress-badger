@@ -21,11 +21,11 @@
 ```
   git clone https://github.com/SmartBiz/Angular2-Wordpress.git Angular2-Wordpress
   git clone https://github.com/mgechev/angular2-seed.git
-  cd Angular2-Wordpress
 ```
 
 1. Install the project's dependencies:
 ```
+  cd Angular2-Wordpress
   npm install
 ```
 
