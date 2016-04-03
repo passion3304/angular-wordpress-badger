@@ -19,7 +19,8 @@
 
 1. [Git](http://git-scm.com "Git distributed version control system") installed. I recommend using [SourceTree](https://www.sourcetreeapp.com)
 ```
-  git clone https://github.com/SmartBiz/Angular2-Wordpress.git Angular2-Wordpress`
+  git clone https://github.com/SmartBiz/Angular2-Wordpress.git Angular2-Wordpress
+  git clone https://github.com/mgechev/angular2-seed.git
   cd Angular2-Wordpress
 ```
 
