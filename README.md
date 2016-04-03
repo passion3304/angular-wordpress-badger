@@ -40,7 +40,7 @@
 - End-to-end tests with Protractor.
 - Development server with Livereload.
 - Experimental hot loading support.
-- Following the best practices for your application’s structure.
+- Following the [best practices for your application’s structure](https://github.com/mgechev/angular2-style-guide).
 - Manager of your type definitions using [typings](https://github.com/typings/typings).
 - Basic Service Worker, which implements "Cache then network strategy".
 
