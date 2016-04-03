@@ -9,9 +9,9 @@ if (!TASK) {
   throw new Error('You must specify a task name.');
 }
 
-console.log('**********************');
-console.log('* angular2-seed tools ');
+console.log('***************************');
+console.log('* Angular2-Wordpress tools ');
 console.log('* debugging task:', TASK);
-console.log('**********************');
+console.log('***************************');
 
 gulp.start(TASK);

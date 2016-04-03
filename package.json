@@ -1,9 +1,9 @@
 {
-  "name": "angular2-seed",
+  "name": "Angular2-Wordpress",
   "version": "0.0.0",
-  "description": "Seed for Angular 2 apps",
+  "description": "Build a Mobile App for your WordPress based business using Angular 2",
   "repository": {
-    "url": "https://github.com/mgechev/angular2-seed"
+    "url": "https://github.com/SmartBiz/Angular2-Wordpress"
   },
   "scripts": {
     "build.dev": "gulp build.dev --color",
