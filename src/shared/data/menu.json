@@ -1,6 +1,4 @@
-{
-  "Menu":
-  [
+ [
     {
       "name": "Todo",
       "icon": "menu_todo",
@@ -87,5 +85,4 @@
       "state": "dashboard.slob",
       "type": "link"
     }
-  ]
-}
+ ]
