@@ -2,6 +2,8 @@ language: node_js
 node_js:
 - '4.0'
 - '4.1'
+- '4.4'
+- '4.4.2'
 - '5.1'
 sudo: false
 services:
@@ -13,7 +15,7 @@ before_install:
 before_script:
 notifications:
   email: true
-after_failure: cat /home/travis/build/SmartBiz/Angular2-Wordpress/npm-debug.log
+after_failure: cat /home/travis/build/smartbiz/angular2-wordpress/npm-debug.log
 branches:
   only:
   - master

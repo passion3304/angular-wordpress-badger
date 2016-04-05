@@ -1,9 +1,9 @@
 {
-  "name": "Angular2-Wordpress",
-  "version": "0.0.0",
+  "name": "angular2-wordpress",
+  "version": "1.0.0",
   "description": "Build a Mobile App for your WordPress based business using Angular 2",
   "repository": {
-    "url": "https://github.com/SmartBiz/Angular2-Wordpress"
+    "url": "https://github.com/smartbiz/angular2-wordpress"
   },
   "scripts": {
     "build.dev": "gulp build.dev --color",
@@ -30,7 +30,7 @@
     "webdriver-start": "webdriver-manager start",
     "webdriver-update": "webdriver-manager update"
   },
-  "author": "Minko Gechev <mgechev>",
+  "author": "Sun SmartBiz <smartbiz>",
   "license": "MIT",
   "devDependencies": {
     "async": "^1.4.2",
