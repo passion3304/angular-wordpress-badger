@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Build a Mobile App for your WordPress based business using Angular 2",
   "repository": {
-    "url": "https://github.com/smartbiz/angular2-wordpress"
+    "url": "git+https://github.com/smartbiz/angular2-wordpress.git"
   },
   "scripts": {
     "build.dev": "gulp build.dev --color",
@@ -30,7 +30,7 @@
     "webdriver-start": "webdriver-manager start",
     "webdriver-update": "webdriver-manager update"
   },
-  "author": "Sun SmartBiz <smartbiz>",
+  "author": "Sun.SmartBiz@gmail.com <smartbiz>",
   "license": "MIT",
   "devDependencies": {
     "async": "^1.4.2",
@@ -94,7 +94,7 @@
     "systemjs-builder": "^0.15.14",
     "tiny-lr": "^0.2.1",
     "traceur": "^0.0.91",
-    "ts-node": "^0.7.0",
+    "ts-node": "^0.7.1",
     "tslint": "^3.6.0",
     "tslint-stylish": "2.1.0-beta",
     "typedoc": "^0.3.12",
@@ -113,5 +113,9 @@
     "rxjs": "5.0.0-beta.2",
     "systemjs": "~0.19.25",
     "zone.js": "^0.6.6"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/smartbiz/angular2-wordpress/issues"
+  },
+  "homepage": "https://github.com/smartbiz/angular2-wordpress#readme"
 }
